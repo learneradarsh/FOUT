@@ -1,0 +1,25 @@
+{
+  "name": "fout",
+  "version": "1.0.0",
+  "description": "font-optimizing-library",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learneradarsh/FOUT.git"
+  },
+  "author": "Adarsh Pandey (https://learneradarsh.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learneradarsh/FOUT/issues"
+  },
+  "homepage": "https://github.com/learneradarsh/FOUT#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0"
+  }
+}
