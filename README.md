@@ -14,7 +14,7 @@
 You can install **Font Loading Optimizer** using npm:
 
 ```bash
-npm install font-loading-optimizer
+npm install fout
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Once installed, you can import and use the library to optimize font loading on y
 ### Example Usage
 
 ```javascript
-import FontLoader from 'font-loading-optimizer';
+import FontLoader from 'fout';
 
 // Create an instance of the FontLoader class
 const fontLoader = new FontLoader();
@@ -80,5 +80,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contributing
 
-We welcome contributions to improve this library! If you have suggestions, bug reports, or would like to contribute code, please open an issue or submit a pull request.of Invisible Text (FOIT). By applying modern font loading techniques, this library improves website performance, reduces layout shifts, and enhances the overall user experience.
+We welcome contributions to improve this library! If you have suggestions, bug reports, or would like to contribute code, please open an issue or submit a pull request.
 
