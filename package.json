@@ -1,8 +1,8 @@
 {
   "name": "fout",
   "version": "1.0.0",
-  "description": "font-optimizing-library",
-  "main": "index.js",
+  "description": "Font loading optimization library",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +16,12 @@
   "bugs": {
     "url": "https://github.com/learneradarsh/FOUT/issues"
   },
+  "keywords": [
+    "font",
+    "loading",
+    "optimization",
+    "performance"
+  ],
   "homepage": "https://github.com/learneradarsh/FOUT#readme",
   "devDependencies": {
     "@babel/cli": "^7.26.4",
