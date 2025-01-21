@@ -1,5 +1,5 @@
 # Font Loading Optimizer (FOUT)
-
+[![npm version](https://badge.fury.io/js/web-vitals-x.svg)](https://www.npmjs.com/package/web-vitals-x)
 **Font Loading Optimizer** is a JavaScript library that helps optimize the loading of web fonts, preventing issues like Flash of Unstyled Text (FOUT) and Flash of Invisible Text (FOIT). By applying modern font loading techniques, this library improves website performance, reduces layout shifts, and enhances the overall user experience.
 
 ## Features
